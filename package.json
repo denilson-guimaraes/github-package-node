@@ -1,0 +1,9 @@
+{
+  "name": "@denilson-guimaraes/github-package-node",
+  "version": "0.0.1",
+  "description": "Praticando componetização",
+  "main": "src/index.js",
+  "repository": "https://github.com/denilson-guimaraes/github-package-node.git",
+  "author": "Denilson P Guimaraes <denilsonpautzguimaraes@gmail.com>",
+  "license": "MIT"
+}
